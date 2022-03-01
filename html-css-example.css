@@ -37,6 +37,7 @@ body {
     width: 400px;
     margin: 0 auto;
     border: 8px solid white;
+    border-radius: 80px;
 }
 
 #main {
