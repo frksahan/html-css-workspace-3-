@@ -35,7 +35,7 @@ body {
 }
 
 .donate {
-    visibility: hidden;
+    display: none;
 }
 
 #banner {
