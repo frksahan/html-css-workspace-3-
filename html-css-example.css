@@ -98,6 +98,15 @@ p {
     padding: 10px 20px;
 }
 
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+footer .color {
+    color: white;
+}
+
 .pull-quote {
     margin: 0 auto;
     width: 400px;
