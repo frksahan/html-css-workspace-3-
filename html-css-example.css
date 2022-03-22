@@ -17,6 +17,7 @@ body {
     position: relative;
     text-align: center;
     color: black;
+    list-style: none;
 }
 
 .navigation li {
